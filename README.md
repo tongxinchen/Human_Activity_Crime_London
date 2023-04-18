@@ -35,9 +35,9 @@ The results directly verify the explanation that property crime patterns are hig
 
 
 <!-- Notebook usage -->
-## Notebook usage
+## Code usage
 
-The source code in this project are  in py file ```human_activity_property_crime.py```.
+The source code in this project are in py file ```human_activity_property_crime.py```.
 
 All codes can be executed in Conda environment with the installed pkgs listed at the top of this file. 
 
