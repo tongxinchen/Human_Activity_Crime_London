@@ -16,8 +16,8 @@ If you use the functions in this project in your research, please cite this sour
 <!-- Project introduction -->
 ## Project introduction
 
-This study aims to evaluate the relationships between different groups of explanatory variables (i.e., dynamic human activity variables, static variables of social disorganisation and crime generators, and combinations of both sets of variables) and property crime patterns across neighbourhood areas of London from 2020 to 2021. 
-Using the dynamic human activity variables sensed from mobile phone GPS big data sets, three types of LASSO regression models (i.e., static, dynamic and static  & dynamic) differentiated in explanatory variable groups were developed for seven types of property crime.
+This study aims to evaluate the relationships between different groups of explanatory variables (i.e., dynamic human activity variables, static variables of social disorganisation and crime generators, and combinations of both sets of variables) and property crime patterns across neighbourhood areas of London during the pandemic (from 2020 to 2021). 
+Using the dynamic human activity variables sensed from mobile phone GPS big data sets, three types of `Least Absolute Shrinkage and Selection Operator' (LASSO) regression models (i.e., static, dynamic and static \& dynamic) differentiated in explanatory variable groups were developed for seven types of property crime.
 Then, the geographically weighted regression (GWR) model was used to reveal the spatial associations between distinct explanatory variables and the specific type of crime.
 The findings demonstrate that human activity dynamics impose a substantially stronger influence on specific types of property crimes than other static variables. 
 In terms of crime type, theft obtains particularly high relationships with dynamic human activity compared to other property crimes.
