@@ -42,6 +42,6 @@ All sample data and our generated result files are in ```data``` folder.
 <!-- Contact -->
 ## Contact
 
-Please contact the main contributors to this project.
+Please contact the main code contributor in this project.
 
 - Tongxin Chen (tongxin.chen.18@ucl.ac.uk), PhD researcher, SpacetimeLab for Big Data Analytics, University College London, London, UK.
