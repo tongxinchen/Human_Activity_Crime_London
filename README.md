@@ -2,7 +2,7 @@
 [![DOI](https://zenodo.org/badge/616290670.svg)](https://zenodo.org/badge/latestdoi/616290670)
 
 
-[Applying dynamic human activity to disentangle property crime patterns in London during the pandemic: An empirical analysis using geo-tagged big data]()
+[Applying dynamic human activity to disentangle property crime patterns in London during the pandemic: An empirical analysis using geo-tagged big data](https://www.mdpi.com/2220-9964/12/12/488)
 <!-- Citation -->
 ## Citation
 
