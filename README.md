@@ -9,7 +9,16 @@
 If you use the functions in this project in your research, please cite this source:
 
 ```
- 
+MDPI and ACS Style
+Chen, T.; Bowers, K.; Cheng, T. Applying Dynamic Human Activity to Disentangle Property Crime Patterns in London during the Pandemic: An Empirical Analysis Using Geo-Tagged Big Data. ISPRS Int. J. Geo-Inf. 2023, 12, 488. https://doi.org/10.3390/ijgi12120488
+
+AMA Style
+Chen T, Bowers K, Cheng T. Applying Dynamic Human Activity to Disentangle Property Crime Patterns in London during the Pandemic: An Empirical Analysis Using Geo-Tagged Big Data. ISPRS International Journal of Geo-Information. 2023; 12(12):488. https://doi.org/10.3390/ijgi12120488
+
+Chicago/Turabian Style
+Chen, Tongxin, Kate Bowers, and Tao Cheng. 2023. "Applying Dynamic Human Activity to Disentangle Property Crime Patterns in London during the Pandemic: An Empirical Analysis Using Geo-Tagged Big Data" ISPRS International Journal of Geo-Information 12, no. 12: 488. https://doi.org/10.3390/ijgi12120488
+
+
 ```
 
 
