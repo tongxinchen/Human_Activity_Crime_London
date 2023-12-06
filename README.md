@@ -17,8 +17,6 @@ Chen T, Bowers K, Cheng T. Applying Dynamic Human Activity to Disentangle Proper
 
 [Chicago/Turabian Style]:
 Chen, Tongxin, Kate Bowers, and Tao Cheng. 2023. "Applying Dynamic Human Activity to Disentangle Property Crime Patterns in London during the Pandemic: An Empirical Analysis Using Geo-Tagged Big Data" ISPRS International Journal of Geo-Information 12, no. 12: 488. https://doi.org/10.3390/ijgi12120488
-
-
 ```
 
 
