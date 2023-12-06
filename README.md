@@ -30,9 +30,9 @@ This study aimed to evaluate the relationships between different groups of expla
 <!-- Notebook usage -->
 ## Code usage
 
-The source code in this project are in py file ```human_activity_property_crime.py```.
+The source codes in this project are in py file ```human_activity_property_crime.py```.
 
-All codes can be executed in Conda environment with the installed pkgs listed at the top of this file. 
+All codes can be executed in Conda environment with the installed pkgs listed on the top of this file. 
 
 <!-- Open data -->
 ## Open data
@@ -42,6 +42,6 @@ All sample data and our generated result files are in ```data``` folder.
 <!-- Contact -->
 ## Contact
 
-Please contact the main contributors in this project.
+Please contact the main contributors to this project.
 
 - Tongxin Chen (tongxin.chen.18@ucl.ac.uk), PhD researcher, SpacetimeLab for Big Data Analytics, University College London, London, UK.
