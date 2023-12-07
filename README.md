@@ -1,4 +1,5 @@
 # Applying dynamic human activity to disentangle property crime patterns in London during the pandemic: An empirical analysis using geo-tagged big data 
+![Static Badge](https://img.shields.io/badge/Journal-ISPRS%20IJGI-blue?link=https%3A%2F%2Fwww.mdpi.com%2F2220-9964%2F12%2F12%2F488)
 [![DOI](https://zenodo.org/badge/616290670.svg)](https://zenodo.org/badge/latestdoi/616290670)
 
 
